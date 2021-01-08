@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ocelot-Boilerplate</RootNamespace>
+    <RootNamespace>Ocelot_Boilerplate</RootNamespace>
     <TargetFramework>net5.0</TargetFramework>
     <StartupObject>Sub Main</StartupObject>
-    <AssemblyName>Ocelot-Boilerplate</AssemblyName>
+    <AssemblyName>Ocelot_Boilerplate</AssemblyName>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
