@@ -9,6 +9,7 @@ Imports Ocelot.Middleware
 
 Public Class Program
     Public Shared Sub Main(ByVal args As String())
+
         'Note that configuration.json must be present in the debug folder and its contents must at least be an empty JSON array if no settings are needed
         'Empty JSON array -> { }
 
@@ -24,6 +25,7 @@ Public Class Program
                                                                                                                                                                                 a.UseMvc()
                                                                                                                                                                                 a.UseOcelot().Wait()
                                                                                                                                                                             End Function).Build().Run()
+
     End Sub
 
     Private Class CSharpImpl
