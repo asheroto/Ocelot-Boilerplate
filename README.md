@@ -25,3 +25,7 @@ https://ocelot.readthedocs.io/en/latest/
 and here is a great repo with demos (although older)
 
 https://github.com/catcherwong-archive/APIGatewayDemo
+
+# NetCoreServer is a great alternative
+
+Definitely check out the [NetCoreServer project](https://github.com/chronoxor/NetCoreServer) before you go messing with Oceton too much :-) It gives you excellent access to common socket servers.
