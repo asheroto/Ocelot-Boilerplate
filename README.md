@@ -26,6 +26,8 @@ and here is a great repo with demos (although older)
 
 https://github.com/catcherwong-archive/APIGatewayDemo
 
-# NetCoreServer is a great alternative
+# NetCoreServer is a great partner
 
-Definitely check out the [NetCoreServer project](https://github.com/chronoxor/NetCoreServer) before you go messing with Oceton too much :-) It gives you excellent access to common socket servers.
+Check out the [NetCoreServer project](https://github.com/chronoxor/NetCoreServer).
+
+You can create many different types of servers, including HTTPS, WebSocket, and more.
