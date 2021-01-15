@@ -14,7 +14,7 @@ http://localhost:9001/api/pricing
 
 # Ocelot Repo
 
-If you aren't sure what Ocelot is, check out their repo
+If you aren't sure what Ocelot is, check out their repo...
 
 https://github.com/ThreeMammals/Ocelot
 
